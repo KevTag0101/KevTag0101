@@ -1,6 +1,6 @@
 # 👋 Hi, I'm KevTag
 
-Welcome to my GitHub! I'm Kev — a passionate self-taught web developer based in Ghana.  
+Welcome to my GitHub! I'm Kev, a passionate self-taught web developer based in Ghana.  
 I’m using this space to share my real-world projects, track my progress, and connect with fellow tech enthusiasts.
 
 ---
